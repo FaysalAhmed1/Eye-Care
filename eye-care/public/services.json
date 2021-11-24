@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "1",
+    "picture": "https://i.ibb.co/0JfxF7n/2.jpg",
+    "index": 0,
+    "name": "Regular Checkup",
+    "description": "EyeCare Consultants has been offering comprehensive eye care to the Evansville community since 1989. Our goal is to offer patients convenient access to quality, affordable care with the area’s top eye care professionals. ",
+    "price": 200
+  },
+  {
+    "_id": "2",
+    "picture": "https://i.ibb.co/Z1nHz73/Senior-men-having-her-eyes-checked-at-young-male-ophthalmologist.jpg",
+    "index": 1,
+    "name": "Detailed Consults",
+    "description": "We are dedicated to the philosophy of cooperative patient care and have been recognized for delivering an outstanding patient experience. Our physicians and surgeons work with patients to find customized treatment plans to best fit your needs and lifestyle",
+    "price": 350
+  },
+  {
+    "_id": "3",
+    "picture": "https://i.ibb.co/qs7Jwdr/Glasses-and-eye-chart-on-white-background.jpg",
+    "index": 2,
+    "name": "Glass gallary",
+    "description": "Lunettes Eyewear offers a variety of Sunglasses and eyeglass frames within an affordable price range. in Bangladesh. Anti-Blue glasses, Polarized ...",
+    "price": 340
+  },
+  {
+    "_id": "4",
+    "picture": "https://i.ibb.co/G5XMvh7/Female-optician-working-at-optic-store.jpg",
+    "index": 3,
+    "name": "Power adjustment",
+    "description": "Using sliding lens technology Vision Adjuster Glasses promises to deliver customizable focus control, so you'll have “crystal clear vision” ...",
+    "price": 270
+  },
+  {
+    "_id": "5",
+    "picture": "https://i.ibb.co/dm1QXpJ/Ophthalmologist-holding-a-model-of-a-human-eyeball-while-consulting-his-elderly-patient-during-a-med.jpg",
+    "index": 4,
+    "name": "Surgery Consults",
+    "description": "Cataracts are very common and symptoms can be pretty noticeable. But even though symptoms are well-known, patients may not attribute them to cataracts right away. Because of this symptoms gradually increase in severity and can start to interfere with a patient’s independence",
+    "price": 3100
+  },
+  {
+    "_id": "6",
+    "picture": "https://i.ibb.co/Pgp0SVG/6.jpg",
+    "index": 4,
+    "name": "Professional eye surgery",
+    "description": "Cataract surgery is a safe and effective way to restore vision. It’s usually done on an outpatient basis and only requires a short recovery period. The surgeon generally completes the procedure in less than 15 minutes, and complications occur in less than one in 100 cases. After cataract surgery, most patients can resume their normal activities the following day.",
+    "price": 3100
+  }
+]
